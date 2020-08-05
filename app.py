@@ -1,3 +1,5 @@
+#to run this, simply run 'python app.py' in terminal and then go to localhost:5000 on your browser
+
 from flask import Flask, render_template
 
 app = Flask(__name__)
